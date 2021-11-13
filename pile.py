@@ -35,3 +35,7 @@ class Pile:
                     return False
         
         return p.est_vide()
+    
+    
+    def test():
+        return None
